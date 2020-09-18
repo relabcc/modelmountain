@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.2e97c35b.chunk.js",
-    "main.js.map": "/static/js/main.2e97c35b.chunk.js.map",
+    "main.js": "/static/js/main.e9b421af.chunk.js",
+    "main.js.map": "/static/js/main.e9b421af.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba4a380f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba4a380f.js.map",
     "static/css/2.94ed5f3f.chunk.css": "/static/css/2.94ed5f3f.chunk.css",
-    "static/js/2.0d0bb3ea.chunk.js": "/static/js/2.0d0bb3ea.chunk.js",
-    "static/js/2.0d0bb3ea.chunk.js.map": "/static/js/2.0d0bb3ea.chunk.js.map",
+    "static/js/2.a6a53d02.chunk.js": "/static/js/2.a6a53d02.chunk.js",
+    "static/js/2.a6a53d02.chunk.js.map": "/static/js/2.a6a53d02.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fca5f8c12026ad7e0e35ca4a0914c310.js": "/precache-manifest.fca5f8c12026ad7e0e35ca4a0914c310.js",
+    "precache-manifest.48bd263a0daa7c2636e592156f53333e.js": "/precache-manifest.48bd263a0daa7c2636e592156f53333e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.94ed5f3f.chunk.css.map": "/static/css/2.94ed5f3f.chunk.css.map",
-    "static/js/2.0d0bb3ea.chunk.js.LICENSE.txt": "/static/js/2.0d0bb3ea.chunk.js.LICENSE.txt",
+    "static/js/2.a6a53d02.chunk.js.LICENSE.txt": "/static/js/2.a6a53d02.chunk.js.LICENSE.txt",
     "static/media/18luohanshan.svg": "/static/media/18luohanshan.8c069bbf.svg",
     "static/media/alishan.svg": "/static/media/alishan.55417df4.svg",
     "static/media/chuyinshan.svg": "/static/media/chuyinshan.523ed753.svg",
@@ -50,7 +50,6 @@
     "static/media/maolanshan.svg": "/static/media/maolanshan.2849a951.svg",
     "static/media/qixingshan.svg": "/static/media/qixingshan.7574f1ea.svg",
     "static/media/quezishan.svg": "/static/media/quezishan.a320b1a2.svg",
-    "static/media/rotate360.svg": "/static/media/rotate360.b91fd057.svg",
     "static/media/shaolaishan.svg": "/static/media/shaolaishan.05a2337b.svg",
     "static/media/shengmudengshan.svg": "/static/media/shengmudengshan.8e58ced1.svg",
     "static/media/shengmudengshanadj.png": "/static/media/shengmudengshanadj.666f4393.png",
@@ -80,7 +79,7 @@
   "entrypoints": [
     "static/js/runtime-main.ba4a380f.js",
     "static/css/2.94ed5f3f.chunk.css",
-    "static/js/2.0d0bb3ea.chunk.js",
-    "static/js/main.2e97c35b.chunk.js"
+    "static/js/2.a6a53d02.chunk.js",
+    "static/js/main.e9b421af.chunk.js"
   ]
 }
