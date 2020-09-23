@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.4d64c8b5.chunk.js",
-    "main.js.map": "/static/js/main.4d64c8b5.chunk.js.map",
+    "main.js": "/static/js/main.0e82c0f0.chunk.js",
+    "main.js.map": "/static/js/main.0e82c0f0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba4a380f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba4a380f.js.map",
     "static/css/2.94ed5f3f.chunk.css": "/static/css/2.94ed5f3f.chunk.css",
-    "static/js/2.ffb16388.chunk.js": "/static/js/2.ffb16388.chunk.js",
-    "static/js/2.ffb16388.chunk.js.map": "/static/js/2.ffb16388.chunk.js.map",
+    "static/js/2.4d681b2e.chunk.js": "/static/js/2.4d681b2e.chunk.js",
+    "static/js/2.4d681b2e.chunk.js.map": "/static/js/2.4d681b2e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.87f6774fa9fbc4efa877384796145bd5.js": "/precache-manifest.87f6774fa9fbc4efa877384796145bd5.js",
+    "precache-manifest.df89daeb988c2069f2f8be2cfe27aead.js": "/precache-manifest.df89daeb988c2069f2f8be2cfe27aead.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.94ed5f3f.chunk.css.map": "/static/css/2.94ed5f3f.chunk.css.map",
-    "static/js/2.ffb16388.chunk.js.LICENSE.txt": "/static/js/2.ffb16388.chunk.js.LICENSE.txt",
+    "static/js/2.4d681b2e.chunk.js.LICENSE.txt": "/static/js/2.4d681b2e.chunk.js.LICENSE.txt",
     "static/media/18luohanshan.svg": "/static/media/18luohanshan.8c069bbf.svg",
     "static/media/alishan.svg": "/static/media/alishan.55417df4.svg",
     "static/media/alishanicon.svg": "/static/media/alishanicon.c614ab4b.svg",
@@ -121,6 +121,9 @@
     "static/media/yuntaishan.svg": "/static/media/yuntaishan.7b2aef92.svg",
     "static/media/yuntaishanicon.svg": "/static/media/yuntaishanicon.68269c23.svg",
     "static/media/yushan.svg": "/static/media/yushan.2fd130a7.svg",
+    "static/media/yushan_mobile.png": "/static/media/yushan_mobile.47722a1c.png",
+    "static/media/yushan_plant.png": "/static/media/yushan_plant.884420e0.png",
+    "static/media/yushan_web.png": "/static/media/yushan_web.45e87444.png",
     "static/media/yushanadj.png": "/static/media/yushanadj.58029523.png",
     "static/media/yushanicon.svg": "/static/media/yushanicon.f0deb688.svg",
     "static/media/zhongniuhushan.svg": "/static/media/zhongniuhushan.bddd2077.svg",
@@ -131,7 +134,7 @@
   "entrypoints": [
     "static/js/runtime-main.ba4a380f.js",
     "static/css/2.94ed5f3f.chunk.css",
-    "static/js/2.ffb16388.chunk.js",
-    "static/js/main.4d64c8b5.chunk.js"
+    "static/js/2.4d681b2e.chunk.js",
+    "static/js/main.0e82c0f0.chunk.js"
   ]
 }
