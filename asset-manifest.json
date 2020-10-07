@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.6afd0206.chunk.js",
-    "main.js.map": "/static/js/main.6afd0206.chunk.js.map",
+    "main.js": "/static/js/main.fa883928.chunk.js",
+    "main.js.map": "/static/js/main.fa883928.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ba4a380f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ba4a380f.js.map",
     "static/css/2.d9234fd5.chunk.css": "/static/css/2.d9234fd5.chunk.css",
-    "static/js/2.e32f0cf3.chunk.js": "/static/js/2.e32f0cf3.chunk.js",
-    "static/js/2.e32f0cf3.chunk.js.map": "/static/js/2.e32f0cf3.chunk.js.map",
+    "static/js/2.fa434aa1.chunk.js": "/static/js/2.fa434aa1.chunk.js",
+    "static/js/2.fa434aa1.chunk.js.map": "/static/js/2.fa434aa1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3306583e7195844989477f02f07223d7.js": "/precache-manifest.3306583e7195844989477f02f07223d7.js",
+    "precache-manifest.edeea31fc5a89d4e85d193273fb688bc.js": "/precache-manifest.edeea31fc5a89d4e85d193273fb688bc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9234fd5.chunk.css.map": "/static/css/2.d9234fd5.chunk.css.map",
-    "static/js/2.e32f0cf3.chunk.js.LICENSE.txt": "/static/js/2.e32f0cf3.chunk.js.LICENSE.txt",
+    "static/js/2.fa434aa1.chunk.js.LICENSE.txt": "/static/js/2.fa434aa1.chunk.js.LICENSE.txt",
     "static/media/18luohanshan.png": "/static/media/18luohanshan.69f32c3e.png",
     "static/media/18luohanshan.webp": "/static/media/18luohanshan.6ce75967.webp",
     "static/media/alishan.webp": "/static/media/alishan.dabdf2f0.webp",
@@ -137,6 +137,8 @@
     "static/media/fenqihudadongshanicon.webp": "/static/media/fenqihudadongshanicon.3924b38f.webp",
     "static/media/fenqihudadongshanicon.png": "/static/media/fenqihudadongshanicon.f0f454a7.png",
     "static/media/footer.webp": "/static/media/footer.bbf0d647.webp",
+    "static/media/gamania.webp": "/static/media/gamania.1edb9e0a.webp",
+    "static/media/gamania.png": "/static/media/gamania.afcd60e3.png",
     "static/media/gray_animal_amphibians_5.png": "/static/media/gray_animal_amphibians_5.609e09ce.png",
     "static/media/gray_animal_amphibians_5.webp": "/static/media/gray_animal_amphibians_5.f936d923.webp",
     "static/media/gray_animal_amphibians_6.webp": "/static/media/gray_animal_amphibians_6.73281e52.webp",
@@ -203,7 +205,7 @@
     "static/media/hengshanadj.png": "/static/media/hengshanadj.abfd696e.png",
     "static/media/hengshanicon.webp": "/static/media/hengshanicon.15ff93f7.webp",
     "static/media/hengshanicon.png": "/static/media/hengshanicon.581bcc17.png",
-    "static/media/hikingbook.webp": "/static/media/hikingbook.14d6ead7.webp",
+    "static/media/hikingbook.webp": "/static/media/hikingbook.4b847065.webp",
     "static/media/hongdanshan.png": "/static/media/hongdanshan.16401a5d.png",
     "static/media/hongdanshan.webp": "/static/media/hongdanshan.3bffc908.webp",
     "static/media/hongdanshanicon.webp": "/static/media/hongdanshanicon.8b606f4c.webp",
@@ -381,7 +383,7 @@
     "static/media/quezishan.png": "/static/media/quezishan.f9a3e57c.png",
     "static/media/quezishanicon.png": "/static/media/quezishanicon.933407cc.png",
     "static/media/quezishanicon.webp": "/static/media/quezishanicon.e596e6e8.webp",
-    "static/media/relab.webp": "/static/media/relab.df3d8328.webp",
+    "static/media/relab.webp": "/static/media/relab.6070ad59.webp",
     "static/media/shaolaishan.png": "/static/media/shaolaishan.2035701a.png",
     "static/media/shaolaishan.webp": "/static/media/shaolaishan.312c3991.webp",
     "static/media/shaolaishanicon.webp": "/static/media/shaolaishanicon.75c50dc8.webp",
@@ -635,7 +637,7 @@
   "entrypoints": [
     "static/js/runtime-main.ba4a380f.js",
     "static/css/2.d9234fd5.chunk.css",
-    "static/js/2.e32f0cf3.chunk.js",
-    "static/js/main.6afd0206.chunk.js"
+    "static/js/2.fa434aa1.chunk.js",
+    "static/js/main.fa883928.chunk.js"
   ]
 }
